@@ -1,0 +1,3 @@
+name: Karrigan
+skill_automatic: 610
+skill_awp: 980

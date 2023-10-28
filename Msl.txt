@@ -1,0 +1,3 @@
+name: Msl
+skill_automatic: 560
+skill_awp: 900

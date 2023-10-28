@@ -1,0 +1,3 @@
+name: Dev1ce
+skill_automatic: 1000
+skill_awp: 2000

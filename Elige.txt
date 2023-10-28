@@ -1,0 +1,3 @@
+name: Elige
+skill_automatic: 800
+skill_awp: 540

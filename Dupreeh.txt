@@ -1,0 +1,3 @@
+name: Dupreeh
+skill_automatic: 870
+skill_awp: 810

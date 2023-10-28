@@ -1,0 +1,3 @@
+name: ColdZera
+skill_automatic: 4250
+skill_awp: 7100

@@ -1,0 +1,3 @@
+name: Flusha
+skill_automatic: 980
+skill_awp: 800

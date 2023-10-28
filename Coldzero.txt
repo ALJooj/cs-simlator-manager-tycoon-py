@@ -1,0 +1,3 @@
+name: Coldzero
+skill_automatic: 640
+skill_awp: 960

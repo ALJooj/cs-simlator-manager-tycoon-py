@@ -1,0 +1,18 @@
+name: Renegades
+player1: 
+Dev1ce
+1000
+2000
+
+player2: 
+Rain
+900
+3000
+
+players3: 
+Oscar
+8900
+2500
+
+money: 10000
+fav_maps: {[inferno 1], [cache 2], [train 3], [overpass 4], [mirage 5], [dust2 2], [nuke 6]}

@@ -1,0 +1,3 @@
+name: Fer
+skill_automatic: 710
+skill_awp: 620

@@ -1,0 +1,3 @@
+name: Magisk
+skill_automatic: 720
+skill_awp: 610

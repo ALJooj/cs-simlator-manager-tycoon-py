@@ -1,0 +1,3 @@
+name: Stewie
+skill_automatic: 740
+skill_awp: 530

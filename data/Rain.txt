@@ -1,0 +1,3 @@
+name: Rain
+skill_automatic: 540
+skill_awp: 870

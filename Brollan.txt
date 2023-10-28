@@ -1,0 +1,3 @@
+name: Brollan
+skill_automatic: 830
+skill_awp: 720

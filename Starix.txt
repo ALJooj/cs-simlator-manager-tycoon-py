@@ -1,0 +1,3 @@
+name: Starix
+skill_automatic: 600
+skill_awp: 960

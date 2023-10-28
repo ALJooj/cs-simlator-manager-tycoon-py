@@ -1,0 +1,3 @@
+name: Xyp9x
+skill_automatic: 740
+skill_awp: 710

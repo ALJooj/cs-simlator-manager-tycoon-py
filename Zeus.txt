@@ -1,0 +1,3 @@
+name: Zeus
+skill_automatic: 990
+skill_awp: 840

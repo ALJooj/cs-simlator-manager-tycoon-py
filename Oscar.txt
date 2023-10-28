@@ -1,0 +1,3 @@
+name: Oscar
+skill_automatic: 8900
+skill_awp: 2500

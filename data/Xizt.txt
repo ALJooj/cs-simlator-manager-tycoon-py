@@ -1,0 +1,3 @@
+name: Xizt
+skill_automatic: 650
+skill_awp: 980

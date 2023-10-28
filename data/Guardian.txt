@@ -1,0 +1,3 @@
+name: Guardian
+skill_automatic: 570
+skill_awp: 970

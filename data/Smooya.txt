@@ -1,0 +1,3 @@
+name: Smooya
+skill_automatic: 540
+skill_awp: 530

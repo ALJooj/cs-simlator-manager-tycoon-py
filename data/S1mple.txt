@@ -1,0 +1,3 @@
+name: S1mple
+skill_automatic: 1100
+skill_awp: 7900

@@ -1,0 +1,3 @@
+name: Adren
+skill_automatic: 850
+skill_awp: 760

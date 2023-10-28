@@ -1,0 +1,3 @@
+name: Apex
+skill_automatic: 920
+skill_awp: 520

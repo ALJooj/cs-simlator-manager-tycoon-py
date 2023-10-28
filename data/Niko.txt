@@ -1,0 +1,3 @@
+name: Niko
+skill_automatic: 620
+skill_awp: 560

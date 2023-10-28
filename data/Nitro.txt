@@ -1,0 +1,3 @@
+name: Nitro
+skill_automatic: 550
+skill_awp: 700

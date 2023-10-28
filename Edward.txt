@@ -1,0 +1,3 @@
+name: Edward
+skill_automatic: 840
+skill_awp: 650

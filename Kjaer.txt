@@ -1,0 +1,3 @@
+name: Kjaer
+skill_automatic: 550
+skill_awp: 580

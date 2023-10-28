@@ -1,0 +1,3 @@
+name: Kennys
+skill_automatic: 710
+skill_awp: 990

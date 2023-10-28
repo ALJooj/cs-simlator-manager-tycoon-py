@@ -1,0 +1,3 @@
+name: Allu
+skill_automatic: 890
+skill_awp: 950

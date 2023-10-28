@@ -1,0 +1,3 @@
+name: Disco_Doplan
+skill_automatic: 660
+skill_awp: 600

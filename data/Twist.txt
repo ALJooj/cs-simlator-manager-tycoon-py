@@ -1,0 +1,3 @@
+name: Twist
+skill_automatic: 580
+skill_awp: 700

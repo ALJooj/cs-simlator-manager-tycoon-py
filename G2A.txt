@@ -1,0 +1,18 @@
+name: G2A
+player1: 
+S1mple
+1100
+7900
+
+player2: 
+XyR9X
+5000
+5000
+
+players3: 
+ColdZera
+4250
+7100
+
+money: 8000
+fav_maps: {[inferno 30], [cache 20], [train 15], [overpass 40], [mirage 40], [dust2 2], [nuke 2]}
